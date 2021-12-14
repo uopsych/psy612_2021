@@ -1,0 +1,142 @@
+lectures overall
+* add 60 second break in the middle 
+* email students -- share FYP for class?
+* more in-class activities (breakout groups like simple slope drawings)
+* make a flow chart or organization for material? See example shared by S Lieber
+
+course website:
+* include in required materials: LaTex
+* Add link to this: https://statmodeling.stat.columbia.edu/wp-content/uploads/2020/07/raos_tips.pdf
+
+labs overall
+* show only broom and kable for creating table summaries throughout
+* in lab 9, show them papaja in depth (add links to other options, like stargazer, apaTables, and sjPlot to just create tables in Word)
+* incorporate in-text R code to summarize results throughout 
+* most useful to teach from R, not from html output
+* should we replace papaja with data cleaning (for loops, functions, regular expressions, etc)
+
+final-project.html
+* add descriptive statistics back in?
+
+1-correlation.html
+- use t or z for statistical test?
+- useful to read (skim) chapter before (send email week before)
+
+2-correlation.html
+
+- move scatterplots to before correlation matrices
+- add slides about MAR/MCAR/MNAR 
+
+1-lab.html
+
+  * maybe add missingness (but included in class already) -- minihack?
+  * change Dawtry example to something else
+  
+3-regression.html
+  
+  * go back and add i's 
+  * double check z for standardized regression equation
+  * remove sxy etc from slide 19
+  * positive feedback on discussion of eugenics
+
+4-regression.html
+  
+  * check z's for standardized regression equation
+  * add the squares
+  * add this! https://joshualoftus.com/post/2020-11-23-least-squares-as-springs/least-squares-as-springs/ 
+  
+2-lab.html
+
+  * more interactive labs are good! This one is already interactive, so good template for future labs.
+
+5-regression.html
+
+  * move gganimate from lab 3 to here 
+
+6-glm.html
+
+  * possible terms to use for model comparison 
+    * compact model (simpler)
+    * augmented model (more complex, wanted to test)
+    * proportional reduction in R^2
+  * why is GLM taught before ANOVA?
+  
+3-lab.html
+
+  * labs feeling repetitive
+    * could this be a pandemic-specific thing?
+    * options
+      * move papaja lab here?
+      * more applied lab? 
+        * here's a question -- how would you test it?
+    
+
+7-partial.html
+
+  * arrow from parent ses to peer relations
+  * when to use each: only care about X and Y and controlling for variable; comparions between diff x's and incremental validity; network analysis
+  
+8-m_regression.html
+  
+  * remove ID variable from dataset
+  * no matter where you cut the plane, the angle is the same
+  * walk through GIF -- break this up into steps and different slides. May require building my own figures
+  
+lab-4.html
+
+  * no changes needed
+
+lab-5.html
+
+  * no changes needed
+
+9-m_regression.html
+
+  * I already updated the example 
+
+10-m_regression.html
+
+  * don't use factorial design for example
+  * liked interpreting coefficents when controlling for variables
+  
+11/12-diagnostics.html
+
+  * better example for homoscedasticity (it wasn't very clear)
+  * add code for multicollinearity
+  * explain independence plots more -- give strong examples of each end (dependence, independence)
+
+lab-6.html
+
+  * this is a boring lab. How can we spice it up?
+    * murder mystery mini-hacks (something's wrong with this model)
+
+13-dag.html
+* add paper by Grosz, Rohrer, & Thoemmes (2020) "The taboo against explicit causal inference in non experimental psychology." As optional reading. Describe during class?
+* clarify "causality"
+
+14-interactions.html
+* use name of variable instead of Y-hat
+
+homework-2.html
+* make due last week of class
+* weights are 1/predicted values, not predicted values!!!
+
+lab-8.html
+* is it worth keeping in contrast codes? 
+
+15-interactions.html
+* write out equations on the screen 
+
+16-18-factorial.html
+* keep venn diagrams in sums of squares
+* give examples for when to use different SS
+* switch order of simple slope examples
+
+19-interactions.html
+* blank slides
+
+20-poly-boot.html
+* keep -- when do I use this!
+
+lab-9.html
+* short and straightfoward -- good for this lab. 
